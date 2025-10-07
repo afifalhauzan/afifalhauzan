@@ -3,15 +3,16 @@
 ### 🎨👨‍💻 UI/UX & Frontend Creative with Multimedia Edge  
 **Information Technology Edu Student @ Brawijaya University**
 
-💻 Passionate about **Front-End Development** and crafting user experiences that blend design and functionality.  
-🚀 Currently exploring **Next.js**, **React**, and **Laravel** to build scalable, modern web applications.  
+💻 Passionate about **Front-End Development** and crafting seamless user experiences.  
+🚀 Currently diving into **Next.js** and **Laravel** to build scalable, modern web applications.  
 🎨 With a background in **UI/UX Design** and **Multimedia**, I enjoy turning ideas into engaging digital experiences.  
 🤝 Open to collaborate on **web projects**, **creative UI/UX**, or anything that bridges visuals and technology.  
-📫 Let’s connect! Find me on [Instagram](https://instagram.com/afifalhauzan._) or check out my [portfolio](https://afifalhauzan.vercel.app/).
+
+Let’s connect! Find me on [Instagram](https://instagram.com/afifalhauzan._) or check out my [portfolio](https://afifalhauzan.vercel.app/).
 
 ---
 
-### 🧰 Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
