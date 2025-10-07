@@ -1,7 +1,7 @@
-# 👋 Hi there, I'm Afif!
+# Hi there, I'm Afif!👋
 
-### 🎯 UI/UX & Frontend Creative with Multimedia Edge  
-**Focused on Educational Technology | Information Technology Edu Student @ Brawijaya University**
+### 🎨👨‍💻 UI/UX & Frontend Creative with Multimedia Edge  
+**Information Technology Edu Student @ Brawijaya University**
 
 💻 Passionate about **Front-End Development** and crafting user experiences that blend design and functionality.  
 🚀 Currently exploring **Next.js**, **React**, and **Laravel** to build scalable, modern web applications.  
