@@ -8,7 +8,9 @@
 🎨 With a background in **UI/UX Design** and **Multimedia**, I enjoy turning ideas into engaging digital experiences.  
 🤝 Open to collaborate on **web projects**, **creative UI/UX**, or anything that bridges visuals and technology.  
 
-Let’s connect! Find me on [Instagram](https://instagram.com/afifalhauzan._) or check out my [portfolio](https://afifalhauzan.vercel.app/).
+### 🌐 Explore My Work  
+Check out my latest projects on my **[portfolio website →](https://afifalhauzan.me/)**  
+I combine **design thinking, development best practices, and multimedia storytelling** to bring ideas to life.  
 
 ---
 
