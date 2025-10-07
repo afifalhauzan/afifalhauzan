@@ -1,10 +1,38 @@
-👋 Hi, I’m @afifalhauzan  
-👀 I’m passionate about Front-End Development and crafting seamless user experiences.  
-🌱 I’m currently exploring Next.js, React, and Laravel to enhance my development skills.  
-💞️ I’m eager to collaborate on Front-End projects, UI/UX design, and innovative web applications.  
-📫 Let’s connect! Reach me on Instagram: [afifalhauzan._](https://www.instagram.com/afifalhauzan._/)  
+# 👋 Hi there, I'm Afif!
 
-<!---
-afifalhauzan/afifalhauzan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Passionate about **Front-End Development** and crafting user experiences that blend design and functionality.  
+🚀 Currently exploring **Next.js**, **React**, and **Laravel** to build scalable, modern web applications.  
+🎨 With a background in **UI/UX Design** and **Multimedia**, I enjoy turning ideas into engaging digital experiences.  
+🤝 Open to collaborate on **web projects**, **creative UI/UX**, or anything that bridges visuals and technology.  
+📫 Let’s connect! Find me on [Instagram](https://instagram.com/afifalhauzan._) or check out my [portfolio](https://afifalhauzan.vercel.app/).
+
+---
+
+### 🧰 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=afifalhauzan&show_icons=true&theme=radical" alt="Afif's GitHub stats" />
+</p>
