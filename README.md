@@ -4,16 +4,15 @@
 **Information Technology Edu Student @ Brawijaya University**
 
 💻 Passionate about **Front-End Development** and crafting seamless user experiences.  
-🚀 Currently diving into **Next.js** and **Laravel** to build scalable, modern web applications.  
+Currently diving into **Next.js** and **Laravel** to build scalable, modern web applications.  
 🎨 With a background in **UI/UX Design** and **Multimedia**, I enjoy turning ideas into engaging digital experiences.  
-🤝 Open to collaborate on **web projects**, **creative UI/UX**, or anything that bridges visuals and technology.  
+
+Open to collaborate on **web projects**, **creative UI/UX**, or anything that bridges visuals and technology.  
 
 ### Check out my latest projects on my **[portfolio website →](https://afifalhauzan.me/)** 
 I combine **design thinking, development best practices, and multimedia storytelling** to bring ideas to life.  
 
 ---
-
-### Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
