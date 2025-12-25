@@ -2,7 +2,7 @@
 _Information Technology Edu Student @ Brawijaya University_
 
 Passionate about **Front-End Development** 💻 With a background in **UI/UX Design** and **Multimedia**, I specialize in high-fidelity slicing—turning complex designs into code perfectly.
-Currently building scalable & modern web applications with **Next.js** and **Laravel**, combining design thinking and development best practices.
+Currently building and deploying web products with **Next.js** and **Laravel**, combining design thinking and development best practices.
 
 Open to collaborate on **interactive web projects** & **creative UI/UX!**
 
