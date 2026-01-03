@@ -1,4 +1,4 @@
-# Hi, I'm Afif! | Frontend Engineer & UI/UX Designer 🎨👨‍💻 
+# Hi, I'm Afif! | Frontend Developer & UI/UX Designer 🎨👨‍💻 
 _Information Technology Edu Student @ Brawijaya University_
 
 Passionate about **Front-End Development** 💻 With a background in **UI/UX Design** and **Multimedia**, I specialize in high-fidelity slicing, turning complex designs into code perfectly.
