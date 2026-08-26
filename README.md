@@ -4,8 +4,6 @@ _Information Technology Edu Student @ Brawijaya University_
 Passionate about **Front-End Development** 💻 With a background in **UI/UX Design** and **Multimedia**, I specialize in high-fidelity slicing, turning complex designs into code perfectly.
 Currently building and deploying web products with **Next.js** and **Laravel**, combining design thinking and development best practices.
 
-Building things as **Frontend Engineer Intern @ PT Jalin Mayantara Indonesia**, where I help build and maintain robust real-world web applications.
-
 Open to collaborate on **interactive web projects** & **creative UI/UX!**
 
 ### My **[portfolio website →](https://afifalhauzan.me/)**  
